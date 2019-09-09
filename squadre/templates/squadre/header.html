@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="it">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      {% load static %}
+      <link rel="icon" href="{% static "/squadre/favicon.png" %}">
+      <title>Campionato di calcio</title>
+      <!-- Bootstrap core CSS -->
+      <link href="{% static "/squadre/bootstrap.min.css" %}" rel="stylesheet">
+      <!-- Bootstrap theme -->
+      <link href="{% static "/squadre/bootstrap-theme.min.css" %}" rel="stylesheet">
+      <link href="{% static "/squadre/style.css" %}" rel="stylesheet">
+   </head>
+   <body>
+      <!-- Fixed navbar -->
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+         <div class="container">
+         <div class="navbar-header">
+            <a class="navbar-brand" href="{% url 'home' %}">Home</a>
+         </div>
+         <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+               <li><a href="{% url 'squadre' %}">Squadre</a></li>
+               <li><a href="{% url 'calendar' %}">Calendario</a></li>
+               <li><a href="{% url 'risultati' %}">Risultati</a></li>
+               <li><a href="{% url 'classifica' %}">Classifica</a></li>
+               <li><a href="/admin/" target="_blank">Admin</a></li>
+            </ul>
+         </div>
+      </nav>
+      <div class="container" role="main">

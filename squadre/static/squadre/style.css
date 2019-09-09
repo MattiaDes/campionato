@@ -1,0 +1,63 @@
+body {
+    background-color: #eeeeee;
+    background-image: url('pattern-bg.png');
+    background-repeat: repeat;
+}
+
+.jumbotron {
+    text-align: justify;
+    border: 1px solid #dbdbdb;
+    margin-top: 10px;
+}
+
+.elenco_squadre {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+.elenco_squadre>li a {
+    color: black;
+}
+
+.logo_statistiche {
+    float: left;
+    width: 90px;
+    margin-right: 10px;
+    margin-bottom: 4px;
+}
+
+.elenco_squadre>li {
+    width: 204px;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+    background-color: #fefefe;
+    margin: 10px;
+    border: 1px solid #dbdbdb;
+    border-radius: 6px;
+}
+
+.elenco_squadre>li img {
+    height: 85px;
+    width: 85px;
+    object-fit: scale-down;
+    border: 1px solid #e6e6e6;
+    background-color: #f6f6f6;
+    padding: 2px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+
+.table {
+    text-align: center;
+    background-color: #fff;
+}
+
+table td {
+    vertical-align: middle !important;
+}
+
+.scudetto_mini {
+    width: 30px;
+}

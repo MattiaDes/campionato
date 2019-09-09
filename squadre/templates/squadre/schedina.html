@@ -1,0 +1,36 @@
+{% include "squadre/header.html" %}
+{% load static %}
+<div class="page-header">
+    <h1>Risultati {{num_giornata}}° Giornata <span style="float: right;"><a href="/squadre/risultati/{{num_giornata}}/" type="button" class="btn btn-default">Nascondi schedina</a> {% if num_giornata < 38 %}<a href="/squadre/risultati/{{num_giornata|add:"1"}}/schedina/" type="button" class="btn btn-default">Giornata successiva &raquo;</a>{% endif %}</span></h1>
+</div>
+{% if lista_ris_giornata %}
+<p class="lead">Ecco i <b>risultati</b> delle partite della giornata di campionato da te selezionata:</p>
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Data</th>
+            <th scope="col">Squadra locale</th>
+            <th scope="col">Goal locali</th>
+            <th scope="col">Goal ospiti</th>
+            <th scope="col">Squadra ospite</th>
+            <th scope="col">Schedina</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for calendario in lista_ris_giornata %}
+        <tr>
+            <td>{{calendario.data |date:"d F Y" }}</td>
+            <td><img src="{% get_static_prefix %}squadre/scudetti/{{calendario.squadraLocale}}.png" class="scudetto_mini" alt=""/><br/>{{calendario.squadraLocale}}
+            </td>
+            <td>{{calendario.retiLocali}}</td>
+            <td>{{calendario.retiOspiti}}</td>
+            <td><img src="{% get_static_prefix %}squadre/scudetti/{{calendario.squadraOspite}}.png" class="scudetto_mini" alt=""/><br/>{{calendario.squadraOspite}}</td>
+            <td>{{calendario.schedina}}</td>
+        </tr>
+        {% endfor %}
+</table>
+{% else %}
+<p class="lead">Non ci sono risultati per questa giornata!</p>
+{% endif %}
+
+{% include "squadre/footer.html" %}

@@ -1,0 +1,5082 @@
+[
+{
+  "model": "squadre.squadra",
+  "pk": 1,
+  "fields": {
+    "nome": "Roma"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 2,
+  "fields": {
+    "nome": "Udinese"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 3,
+  "fields": {
+    "nome": "Juventus"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 4,
+  "fields": {
+    "nome": "Fiorentina"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 5,
+  "fields": {
+    "nome": "Atalanta"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 6,
+  "fields": {
+    "nome": "Lazio"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 7,
+  "fields": {
+    "nome": "Bologna"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 8,
+  "fields": {
+    "nome": "Crotone"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 9,
+  "fields": {
+    "nome": "Chievo"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 10,
+  "fields": {
+    "nome": "Inter"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 11,
+  "fields": {
+    "nome": "Empoli"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 12,
+  "fields": {
+    "nome": "Sampdoria"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 13,
+  "fields": {
+    "nome": "Genoa"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 14,
+  "fields": {
+    "nome": "Cagliari"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 15,
+  "fields": {
+    "nome": "Milan"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 16,
+  "fields": {
+    "nome": "Torino"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 17,
+  "fields": {
+    "nome": "Palermo"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 18,
+  "fields": {
+    "nome": "Sassuolo"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 19,
+  "fields": {
+    "nome": "Pescara"
+  }
+},
+{
+  "model": "squadre.squadra",
+  "pk": 20,
+  "fields": {
+    "nome": "Napoli"
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 1,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 1,
+    "data": "2016-08-19T22:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 2,
+    "retiLocali": 4,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 2,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 1,
+    "data": "2016-08-19T22:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 4,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 3,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 1,
+    "data": "2016-08-20T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 6,
+    "retiLocali": 3,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 4,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 1,
+    "data": "2016-08-20T22:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 8,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 5,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 1,
+    "data": "2016-08-20T22:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 10,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 6,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 1,
+    "data": "2016-08-20T22:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 12,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 7,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 1,
+    "data": "2016-08-20T22:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 14,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 8,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 1,
+    "data": "2016-08-20T22:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 16,
+    "retiLocali": 3,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 9,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 1,
+    "data": "2016-08-20T22:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 18,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 10,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 1,
+    "data": "2016-08-20T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 20,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 11,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 2,
+    "data": "2016-08-26T22:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 3,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 12,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 2,
+    "data": "2016-08-26T22:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 15,
+    "retiLocali": 4,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 13,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 2,
+    "data": "2016-08-27T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 1,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 14,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 2,
+    "data": "2016-08-27T22:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 13,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 15,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 2,
+    "data": "2016-08-27T22:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 9,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 16,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 2,
+    "data": "2016-08-27T22:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 17,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 17,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 2,
+    "data": "2016-08-27T22:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 5,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 18,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 2,
+    "data": "2016-08-27T22:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 19,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 19,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 2,
+    "data": "2016-08-27T22:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 7,
+    "retiLocali": 5,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 20,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 2,
+    "data": "2016-08-27T22:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 11,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 21,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 3,
+    "data": "2016-09-09T22:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 18,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 22,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 3,
+    "data": "2016-09-09T22:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 20,
+    "retiLocali": 0,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 23,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 3,
+    "data": "2016-09-10T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 16,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 24,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 3,
+    "data": "2016-09-10T22:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 14,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 25,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 3,
+    "data": "2016-09-10T22:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 6,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 26,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 3,
+    "data": "2016-12-14T23:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 4,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 27,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 3,
+    "data": "2016-09-10T22:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 2,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 28,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 3,
+    "data": "2016-09-10T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 10,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 29,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 3,
+    "data": "2016-09-10T22:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 12,
+    "retiLocali": 3,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 30,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 3,
+    "data": "2016-09-11T22:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 8,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 31,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 4,
+    "data": "2016-09-15T22:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 15,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 32,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 4,
+    "data": "2016-09-16T22:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 19,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 33,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 4,
+    "data": "2016-09-16T22:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 7,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 34,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 4,
+    "data": "2016-09-17T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 5,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 35,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 4,
+    "data": "2016-09-17T22:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 17,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 36,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 4,
+    "data": "2016-09-17T22:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 1,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 37,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 4,
+    "data": "2016-09-17T22:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 3,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 38,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 4,
+    "data": "2016-09-17T22:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 13,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 39,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 4,
+    "data": "2016-09-17T22:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 11,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 40,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 4,
+    "data": "2016-09-17T22:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 9,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 41,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 5,
+    "data": "2016-09-19T22:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 6,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 42,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 5,
+    "data": "2016-09-20T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 17,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 43,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 5,
+    "data": "2016-09-20T22:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 12,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 44,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 5,
+    "data": "2016-09-20T22:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 18,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 45,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 5,
+    "data": "2016-09-20T22:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 10,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 46,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 5,
+    "data": "2016-09-20T22:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 20,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 47,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 5,
+    "data": "2016-09-20T22:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 14,
+    "retiLocali": 4,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 48,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 5,
+    "data": "2016-09-20T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 16,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 49,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 5,
+    "data": "2016-09-20T22:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 8,
+    "retiLocali": 4,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 50,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 5,
+    "data": "2016-09-20T22:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 4,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 51,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 6,
+    "data": "2016-09-23T22:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 9,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 52,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 6,
+    "data": "2016-09-23T22:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 3,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 53,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 6,
+    "data": "2016-09-24T22:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 15,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 54,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 6,
+    "data": "2016-09-24T22:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 19,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 55,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 6,
+    "data": "2016-09-24T22:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 7,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 56,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 6,
+    "data": "2016-09-24T22:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 11,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 57,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 6,
+    "data": "2016-09-24T22:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 2,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 58,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 6,
+    "data": "2016-09-24T22:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 1,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 59,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 6,
+    "data": "2016-09-25T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 12,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 60,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 6,
+    "data": "2016-09-25T22:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 5,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 61,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 7,
+    "data": "2016-10-01T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 20,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 62,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 7,
+    "data": "2016-10-01T22:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 13,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 63,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 7,
+    "data": "2016-10-01T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 8,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 64,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 7,
+    "data": "2016-10-01T22:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 3,
+    "retiLocali": 0,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 65,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 7,
+    "data": "2016-10-01T22:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 18,
+    "retiLocali": 4,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 66,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 7,
+    "data": "2016-10-01T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 9,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 67,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 7,
+    "data": "2016-10-01T22:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 10,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 68,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 7,
+    "data": "2016-10-01T22:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 17,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 69,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 7,
+    "data": "2016-10-01T22:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 4,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 70,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 7,
+    "data": "2016-10-01T22:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 6,
+    "retiLocali": 0,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 71,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 8,
+    "data": "2016-10-15T22:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 15,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 72,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 8,
+    "data": "2016-10-15T22:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 5,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 73,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 8,
+    "data": "2016-10-15T22:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 11,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 74,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 8,
+    "data": "2016-10-15T22:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 14,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 75,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 8,
+    "data": "2016-10-15T22:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 2,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 76,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 8,
+    "data": "2016-10-15T22:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 7,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 77,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 8,
+    "data": "2016-10-15T22:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 1,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 78,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 8,
+    "data": "2016-10-15T22:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 16,
+    "retiLocali": 1,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 79,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 8,
+    "data": "2016-10-15T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 12,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 80,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 8,
+    "data": "2016-10-15T22:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 8,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 81,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 9,
+    "data": "2016-10-22T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 10,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 82,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 9,
+    "data": "2016-10-22T22:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 18,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 83,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 9,
+    "data": "2016-10-22T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 4,
+    "retiLocali": 3,
+    "retiOspiti": 5
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 84,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 9,
+    "data": "2016-10-22T22:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 20,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 85,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 9,
+    "data": "2016-10-22T22:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 9,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 86,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 9,
+    "data": "2016-10-22T22:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 3,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 87,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 9,
+    "data": "2016-10-22T22:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 17,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 88,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 9,
+    "data": "2016-10-22T22:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 13,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 89,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 9,
+    "data": "2016-10-22T22:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 6,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 90,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 9,
+    "data": "2016-10-22T22:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 19,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 91,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 10,
+    "data": "2016-10-25T22:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 7,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 92,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 10,
+    "data": "2016-10-25T22:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 8,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 93,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 10,
+    "data": "2016-10-25T22:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 15,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 94,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 10,
+    "data": "2016-10-25T22:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 16,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 95,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 10,
+    "data": "2016-10-25T22:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 12,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 96,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 10,
+    "data": "2016-10-25T22:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 14,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 97,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 10,
+    "data": "2016-10-25T22:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 11,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 98,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 10,
+    "data": "2016-10-25T22:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 2,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 99,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 10,
+    "data": "2016-10-25T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 5,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 100,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 10,
+    "data": "2016-10-25T22:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 1,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 101,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 11,
+    "data": "2016-10-29T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 13,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 102,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 11,
+    "data": "2016-10-29T22:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 4,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 103,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 11,
+    "data": "2016-10-29T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 17,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 104,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 11,
+    "data": "2016-10-29T22:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 9,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 105,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 11,
+    "data": "2016-10-29T22:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 1,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 106,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 11,
+    "data": "2016-10-29T22:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 20,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 107,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 11,
+    "data": "2016-10-29T22:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 18,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 108,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 11,
+    "data": "2016-10-29T22:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 19,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 109,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 11,
+    "data": "2016-10-29T22:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 10,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 110,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 11,
+    "data": "2016-10-29T22:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 16,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 111,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 12,
+    "data": "2016-11-05T23:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 3,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 112,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 12,
+    "data": "2016-11-05T23:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 12,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 113,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 12,
+    "data": "2016-11-05T23:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 2,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 114,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 12,
+    "data": "2016-11-05T23:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 8,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 115,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 12,
+    "data": "2016-11-05T23:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 6,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 116,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 12,
+    "data": "2016-11-05T23:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 15,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 117,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 12,
+    "data": "2016-11-05T23:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 11,
+    "retiLocali": 0,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 118,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 12,
+    "data": "2016-11-05T23:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 7,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 119,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 12,
+    "data": "2016-11-05T23:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 5,
+    "retiLocali": 0,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 120,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 12,
+    "data": "2016-11-05T23:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 14,
+    "retiLocali": 5,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 121,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 13,
+    "data": "2016-11-19T23:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 1,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 122,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 13,
+    "data": "2016-11-19T23:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 17,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 123,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 13,
+    "data": "2016-11-19T23:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 14,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 124,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 13,
+    "data": "2016-11-19T23:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 16,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 125,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 13,
+    "data": "2016-11-19T23:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 4,
+    "retiLocali": 0,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 126,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 13,
+    "data": "2016-11-19T23:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 19,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 127,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 13,
+    "data": "2016-11-19T23:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 13,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 128,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 13,
+    "data": "2016-11-19T23:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 10,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 129,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 13,
+    "data": "2016-11-19T23:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 18,
+    "retiLocali": 3,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 130,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 13,
+    "data": "2016-11-19T23:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 20,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 131,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 14,
+    "data": "2016-11-26T23:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 5,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 132,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 14,
+    "data": "2016-11-26T23:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 2,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 133,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 14,
+    "data": "2016-11-26T23:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 12,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 134,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 14,
+    "data": "2016-11-26T23:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 15,
+    "retiLocali": 1,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 135,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 14,
+    "data": "2016-11-26T23:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 3,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 136,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 14,
+    "data": "2016-11-26T23:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 4,
+    "retiLocali": 4,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 137,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 14,
+    "data": "2016-11-26T23:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 18,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 138,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 14,
+    "data": "2016-11-26T23:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 6,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 139,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 14,
+    "data": "2016-11-26T23:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 19,
+    "retiLocali": 3,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 140,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 14,
+    "data": "2016-11-26T23:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 9,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 141,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 15,
+    "data": "2016-12-03T23:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 13,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 142,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 15,
+    "data": "2016-12-03T23:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 17,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 143,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 15,
+    "data": "2016-12-03T23:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 5,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 144,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 15,
+    "data": "2016-12-03T23:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 1,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 145,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 15,
+    "data": "2016-12-03T23:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 8,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 146,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 15,
+    "data": "2016-12-03T23:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 10,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 147,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 15,
+    "data": "2016-12-03T23:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 14,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 148,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 15,
+    "data": "2016-12-03T23:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 16,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 149,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 15,
+    "data": "2016-12-03T23:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 11,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 150,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 15,
+    "data": "2016-12-03T23:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 7,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 151,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 16,
+    "data": "2016-12-10T23:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 2,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 152,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 16,
+    "data": "2016-12-10T23:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 11,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 153,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 16,
+    "data": "2016-12-10T23:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 20,
+    "retiLocali": 0,
+    "retiOspiti": 5
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 154,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 16,
+    "data": "2016-12-10T23:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 19,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 155,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 16,
+    "data": "2016-12-10T23:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 18,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 156,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 16,
+    "data": "2016-12-10T23:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 13,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 157,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 16,
+    "data": "2016-12-10T23:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 9,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 158,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 16,
+    "data": "2016-12-10T23:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 15,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 159,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 16,
+    "data": "2016-12-10T23:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 6,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 160,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 16,
+    "data": "2016-12-10T23:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 3,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 161,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 17,
+    "data": "2016-12-17T23:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 12,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 162,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 17,
+    "data": "2016-12-17T23:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 14,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 163,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 17,
+    "data": "2016-12-17T23:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 17,
+    "retiLocali": 3,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 164,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 17,
+    "data": "2016-12-17T23:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 1,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 165,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 17,
+    "data": "2016-12-17T23:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 4,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 166,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 17,
+    "data": "2016-12-17T23:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 5,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 167,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 17,
+    "data": "2016-12-17T23:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 16,
+    "retiLocali": 5,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 168,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 17,
+    "data": "2016-12-17T23:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 7,
+    "retiLocali": 0,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 169,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 17,
+    "data": "2016-12-17T23:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 10,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 170,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 17,
+    "data": "2016-12-17T23:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 8,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 171,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 18,
+    "data": "2016-12-21T23:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 11,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 172,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 18,
+    "data": "2017-02-07T23:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 15,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 173,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 18,
+    "data": "2016-12-21T23:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 18,
+    "retiLocali": 4,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 174,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 18,
+    "data": "2017-02-07T23:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 3,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 175,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 18,
+    "data": "2016-12-21T23:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 20,
+    "retiLocali": 3,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 176,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 18,
+    "data": "2016-12-21T23:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 6,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 177,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 18,
+    "data": "2016-12-21T23:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 19,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 178,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 18,
+    "data": "2016-12-21T23:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 9,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 179,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 18,
+    "data": "2016-12-21T23:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 2,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 180,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 18,
+    "data": "2016-12-21T23:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 13,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 181,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 19,
+    "data": "2017-01-07T23:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 5,
+    "retiLocali": 1,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 182,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 19,
+    "data": "2017-01-07T23:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 17,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 183,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 19,
+    "data": "2017-01-07T23:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 1,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 184,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 19,
+    "data": "2017-01-07T23:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 7,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 185,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 19,
+    "data": "2017-01-07T23:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 8,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 186,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 19,
+    "data": "2017-01-07T23:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 14,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 187,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 19,
+    "data": "2017-01-07T23:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 12,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 188,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 19,
+    "data": "2017-02-01T23:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 4,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 189,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 19,
+    "data": "2017-01-07T23:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 16,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 190,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 19,
+    "data": "2017-01-07T23:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 10,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 191,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 20,
+    "data": "2017-01-14T23:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 5,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 192,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 20,
+    "data": "2017-01-14T23:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 7,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 193,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 20,
+    "data": "2017-01-14T23:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 9,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 194,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 20,
+    "data": "2017-01-14T23:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 11,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 195,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 20,
+    "data": "2017-01-14T23:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 13,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 196,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 20,
+    "data": "2017-01-14T23:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 3,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 197,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 20,
+    "data": "2017-01-14T23:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 15,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 198,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 20,
+    "data": "2017-01-14T23:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 17,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 199,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 20,
+    "data": "2017-01-14T23:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 19,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 200,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 20,
+    "data": "2017-01-14T23:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 1,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 201,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 21,
+    "data": "2017-01-21T23:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 14,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 202,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 21,
+    "data": "2017-01-21T23:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 8,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 203,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 21,
+    "data": "2017-01-21T23:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 4,
+    "retiLocali": 0,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 204,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 21,
+    "data": "2017-01-21T23:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 10,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 205,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 21,
+    "data": "2017-01-21T23:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 6,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 206,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 21,
+    "data": "2017-01-21T23:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 20,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 207,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 21,
+    "data": "2017-01-21T23:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 12,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 208,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 21,
+    "data": "2017-01-21T23:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 18,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 209,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 21,
+    "data": "2017-01-21T23:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 16,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 210,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 21,
+    "data": "2017-01-21T23:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 2,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 211,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 22,
+    "data": "2017-01-28T23:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 5,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 212,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 22,
+    "data": "2017-01-28T23:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 7,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 213,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 22,
+    "data": "2017-01-28T23:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 9,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 214,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 22,
+    "data": "2017-01-28T23:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 11,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 215,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 22,
+    "data": "2017-01-28T23:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 13,
+    "retiLocali": 3,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 216,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 22,
+    "data": "2017-01-28T23:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 3,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 217,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 22,
+    "data": "2017-01-28T23:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 15,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 218,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 22,
+    "data": "2017-01-28T23:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 17,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 219,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 22,
+    "data": "2017-01-28T23:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 19,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 220,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 22,
+    "data": "2017-01-28T23:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 1,
+    "retiLocali": 3,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 221,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 23,
+    "data": "2017-02-04T23:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 14,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 222,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 23,
+    "data": "2017-02-04T23:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 8,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 223,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 23,
+    "data": "2017-02-04T23:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 4,
+    "retiLocali": 4,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 224,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 23,
+    "data": "2017-02-04T23:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 10,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 225,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 23,
+    "data": "2017-02-04T23:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 6,
+    "retiLocali": 2,
+    "retiOspiti": 6
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 226,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 23,
+    "data": "2017-02-04T23:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 20,
+    "retiLocali": 1,
+    "retiOspiti": 7
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 227,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 23,
+    "data": "2017-02-04T23:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 12,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 228,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 23,
+    "data": "2017-02-04T23:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 18,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 229,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 23,
+    "data": "2017-02-04T23:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 16,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 230,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 23,
+    "data": "2017-02-04T23:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 2,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 231,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 24,
+    "data": "2017-02-11T23:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 5,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 232,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 24,
+    "data": "2017-02-11T23:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 7,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 233,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 24,
+    "data": "2017-02-11T23:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 9,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 234,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 24,
+    "data": "2017-02-11T23:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 11,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 235,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 24,
+    "data": "2017-02-11T23:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 13,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 236,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 24,
+    "data": "2017-02-11T23:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 15,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 237,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 24,
+    "data": "2017-02-11T23:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 3,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 238,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 24,
+    "data": "2017-02-11T23:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 19,
+    "retiLocali": 5,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 239,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 24,
+    "data": "2017-02-11T23:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 1,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 240,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 24,
+    "data": "2017-02-11T23:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 2,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 241,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 25,
+    "data": "2017-02-18T23:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 14,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 242,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 25,
+    "data": "2017-02-18T23:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 8,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 243,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 25,
+    "data": "2017-02-18T23:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 4,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 244,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 25,
+    "data": "2017-02-18T23:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 13,
+    "retiLocali": 5,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 245,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 25,
+    "data": "2017-02-18T23:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 10,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 246,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 25,
+    "data": "2017-02-18T23:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 6,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 247,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 25,
+    "data": "2017-02-18T23:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 20,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 248,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 25,
+    "data": "2017-02-18T23:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 17,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 249,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 25,
+    "data": "2017-02-18T23:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 18,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 250,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 25,
+    "data": "2017-02-18T23:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 16,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 251,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 26,
+    "data": "2017-02-25T23:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 5,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 252,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 26,
+    "data": "2017-02-25T23:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 7,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 253,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 26,
+    "data": "2017-02-25T23:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 14,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 254,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 26,
+    "data": "2017-02-25T23:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 11,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 255,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 26,
+    "data": "2017-02-25T23:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 15,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 256,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 26,
+    "data": "2017-02-25T23:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 19,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 257,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 26,
+    "data": "2017-02-25T23:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 1,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 258,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 26,
+    "data": "2017-02-25T23:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 12,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 259,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 26,
+    "data": "2017-02-25T23:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 16,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 260,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 26,
+    "data": "2017-02-25T23:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 2,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 261,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 27,
+    "data": "2017-03-04T23:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 9,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 262,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 27,
+    "data": "2017-03-04T23:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 4,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 263,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 27,
+    "data": "2017-03-04T23:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 13,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 264,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 27,
+    "data": "2017-03-04T23:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 10,
+    "retiLocali": 1,
+    "retiOspiti": 5
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 265,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 27,
+    "data": "2017-03-04T23:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 3,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 266,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 27,
+    "data": "2017-03-04T23:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 6,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 267,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 27,
+    "data": "2017-03-04T23:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 20,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 268,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 27,
+    "data": "2017-03-04T23:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 17,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 269,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 27,
+    "data": "2017-03-04T23:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 19,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 270,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 27,
+    "data": "2017-03-04T23:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 18,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 271,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 28,
+    "data": "2017-03-11T23:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 5,
+    "retiLocali": 7,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 272,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 28,
+    "data": "2017-03-11T23:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 7,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 273,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 28,
+    "data": "2017-03-11T23:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 14,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 274,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 28,
+    "data": "2017-03-11T23:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 8,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 275,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 28,
+    "data": "2017-03-11T23:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 11,
+    "retiLocali": 4,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 276,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 28,
+    "data": "2017-03-11T23:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 15,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 277,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 28,
+    "data": "2017-03-11T23:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 1,
+    "retiLocali": 0,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 278,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 28,
+    "data": "2017-03-11T23:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 12,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 279,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 28,
+    "data": "2017-03-11T23:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 16,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 280,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 28,
+    "data": "2017-03-11T23:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 2,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 281,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 29,
+    "data": "2017-03-18T23:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 9,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 282,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 29,
+    "data": "2017-03-18T23:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 4,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 283,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 29,
+    "data": "2017-03-18T23:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 13,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 284,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 29,
+    "data": "2017-03-18T23:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 10,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 285,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 29,
+    "data": "2017-03-18T23:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 3,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 286,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 29,
+    "data": "2017-03-18T23:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 6,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 287,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 29,
+    "data": "2017-03-18T23:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 20,
+    "retiLocali": 2,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 288,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 29,
+    "data": "2017-03-18T23:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 17,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 289,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 29,
+    "data": "2017-03-18T23:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 19,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 290,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 29,
+    "data": "2017-03-18T23:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 18,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 291,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 30,
+    "data": "2017-04-01T22:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 5,
+    "retiLocali": 0,
+    "retiOspiti": 5
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 292,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 30,
+    "data": "2017-04-01T22:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 7,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 293,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 30,
+    "data": "2017-04-01T22:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 14,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 294,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 30,
+    "data": "2017-04-01T22:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 8,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 295,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 30,
+    "data": "2017-04-01T22:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 11,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 296,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 30,
+    "data": "2017-04-01T22:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 3,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 297,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 30,
+    "data": "2017-04-01T22:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 6,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 298,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 30,
+    "data": "2017-04-01T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 15,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 299,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 30,
+    "data": "2017-04-01T22:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 12,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 300,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 30,
+    "data": "2017-04-01T22:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 2,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 301,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 31,
+    "data": "2017-04-08T22:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 9,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 302,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 31,
+    "data": "2017-04-08T22:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 4,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 303,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 31,
+    "data": "2017-04-08T22:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 13,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 304,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 31,
+    "data": "2017-04-08T22:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 10,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 305,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 31,
+    "data": "2017-04-08T22:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 20,
+    "retiLocali": 0,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 306,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 31,
+    "data": "2017-04-08T22:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 17,
+    "retiLocali": 4,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 307,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 31,
+    "data": "2017-04-08T22:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 19,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 308,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 31,
+    "data": "2017-04-08T22:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 1,
+    "retiLocali": 0,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 309,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 31,
+    "data": "2017-04-08T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 18,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 310,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 31,
+    "data": "2017-04-08T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 16,
+    "retiLocali": 2,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 311,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 32,
+    "data": "2017-04-14T22:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 5,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 312,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 32,
+    "data": "2017-04-14T22:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 7,
+    "retiLocali": 0,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 313,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 32,
+    "data": "2017-04-14T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 9,
+    "retiLocali": 4,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 314,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 32,
+    "data": "2017-04-14T22:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 8,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 315,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 32,
+    "data": "2017-04-14T22:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 11,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 316,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 32,
+    "data": "2017-04-14T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 3,
+    "retiLocali": 0,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 317,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 32,
+    "data": "2017-04-14T22:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 6,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 318,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 32,
+    "data": "2017-04-14T22:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 15,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 319,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 32,
+    "data": "2017-04-14T22:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 12,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 320,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 32,
+    "data": "2017-04-14T22:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 2,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 321,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 33,
+    "data": "2017-04-22T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 7,
+    "retiLocali": 3,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 322,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 33,
+    "data": "2017-04-22T22:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 14,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 323,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 33,
+    "data": "2017-04-22T22:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 8,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 324,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 33,
+    "data": "2017-04-22T22:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 11,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 325,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 33,
+    "data": "2017-04-22T22:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 13,
+    "retiLocali": 4,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 326,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 33,
+    "data": "2017-04-22T22:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 10,
+    "retiLocali": 5,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 327,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 33,
+    "data": "2017-04-22T22:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 20,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 328,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 33,
+    "data": "2017-04-22T22:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 17,
+    "retiLocali": 6,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 329,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 33,
+    "data": "2017-04-22T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 1,
+    "retiLocali": 1,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 330,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 33,
+    "data": "2017-04-22T22:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 16,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 331,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 34,
+    "data": "2017-04-29T22:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 9,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 332,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 34,
+    "data": "2017-04-29T22:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 4,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 333,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 34,
+    "data": "2017-04-29T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 3,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 334,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 34,
+    "data": "2017-04-29T22:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 6,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 335,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 34,
+    "data": "2017-04-29T22:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 15,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 336,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 34,
+    "data": "2017-04-29T22:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 20,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 337,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 34,
+    "data": "2017-04-29T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 19,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 338,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 34,
+    "data": "2017-04-29T22:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 12,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 339,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 34,
+    "data": "2017-04-29T22:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 18,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 340,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 34,
+    "data": "2017-04-29T22:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 2,
+    "retiLocali": 4,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 341,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 35,
+    "data": "2017-05-06T22:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 5,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 342,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 35,
+    "data": "2017-05-06T22:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 7,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 343,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 35,
+    "data": "2017-05-06T22:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 14,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 344,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 35,
+    "data": "2017-05-06T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 8,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 345,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 35,
+    "data": "2017-05-06T22:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 4,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 346,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 35,
+    "data": "2017-05-06T22:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 10,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 347,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 35,
+    "data": "2017-05-06T22:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 17,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 348,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 35,
+    "data": "2017-05-06T22:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 1,
+    "retiLocali": 1,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 349,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 35,
+    "data": "2017-05-06T22:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 12,
+    "retiLocali": 7,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 350,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 35,
+    "data": "2017-05-06T22:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 16,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 351,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 36,
+    "data": "2017-05-13T22:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 9,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 352,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 36,
+    "data": "2017-05-13T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 11,
+    "retiLocali": 3,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 353,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 36,
+    "data": "2017-05-13T22:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 13,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 354,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 36,
+    "data": "2017-05-13T22:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 3,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 355,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 36,
+    "data": "2017-05-13T22:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 6,
+    "retiLocali": 3,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 356,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 36,
+    "data": "2017-05-13T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 15,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 357,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 36,
+    "data": "2017-05-13T22:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 20,
+    "retiLocali": 0,
+    "retiOspiti": 5
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 358,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 36,
+    "data": "2017-05-13T22:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 19,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 359,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 36,
+    "data": "2017-05-13T22:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 18,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 360,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 36,
+    "data": "2017-05-13T22:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 2,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 361,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 37,
+    "data": "2017-05-20T22:00:00Z",
+    "squadraLocale": 11,
+    "squadraOspite": 5,
+    "retiLocali": 0,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 362,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 37,
+    "data": "2017-05-20T22:00:00Z",
+    "squadraLocale": 15,
+    "squadraOspite": 7,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 363,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 37,
+    "data": "2017-05-20T22:00:00Z",
+    "squadraLocale": 18,
+    "squadraOspite": 14,
+    "retiLocali": 6,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 364,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 37,
+    "data": "2017-05-20T22:00:00Z",
+    "squadraLocale": 3,
+    "squadraOspite": 8,
+    "retiLocali": 3,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 365,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 37,
+    "data": "2017-05-20T22:00:00Z",
+    "squadraLocale": 20,
+    "squadraOspite": 4,
+    "retiLocali": 4,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 366,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 37,
+    "data": "2017-05-20T22:00:00Z",
+    "squadraLocale": 6,
+    "squadraOspite": 10,
+    "retiLocali": 1,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 367,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 37,
+    "data": "2017-05-20T22:00:00Z",
+    "squadraLocale": 19,
+    "squadraOspite": 17,
+    "retiLocali": 2,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 368,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 37,
+    "data": "2017-05-20T22:00:00Z",
+    "squadraLocale": 9,
+    "squadraOspite": 1,
+    "retiLocali": 3,
+    "retiOspiti": 5
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 369,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 37,
+    "data": "2017-05-20T22:00:00Z",
+    "squadraLocale": 2,
+    "squadraOspite": 12,
+    "retiLocali": 1,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 370,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 37,
+    "data": "2017-05-20T22:00:00Z",
+    "squadraLocale": 13,
+    "squadraOspite": 16,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 371,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 38,
+    "data": "2017-05-27T22:00:00Z",
+    "squadraLocale": 5,
+    "squadraOspite": 9,
+    "retiLocali": 1,
+    "retiOspiti": 0
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 372,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 38,
+    "data": "2017-05-27T22:00:00Z",
+    "squadraLocale": 17,
+    "squadraOspite": 11,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 373,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 38,
+    "data": "2017-05-27T22:00:00Z",
+    "squadraLocale": 1,
+    "squadraOspite": 13,
+    "retiLocali": 3,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 374,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 38,
+    "data": "2017-05-27T22:00:00Z",
+    "squadraLocale": 7,
+    "squadraOspite": 3,
+    "retiLocali": 1,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 375,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 38,
+    "data": "2017-05-27T22:00:00Z",
+    "squadraLocale": 8,
+    "squadraOspite": 6,
+    "retiLocali": 3,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 376,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 38,
+    "data": "2017-05-27T22:00:00Z",
+    "squadraLocale": 14,
+    "squadraOspite": 15,
+    "retiLocali": 2,
+    "retiOspiti": 1
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 377,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 38,
+    "data": "2017-05-27T22:00:00Z",
+    "squadraLocale": 12,
+    "squadraOspite": 20,
+    "retiLocali": 2,
+    "retiOspiti": 4
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 378,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 38,
+    "data": "2017-05-27T22:00:00Z",
+    "squadraLocale": 4,
+    "squadraOspite": 19,
+    "retiLocali": 2,
+    "retiOspiti": 2
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 379,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 38,
+    "data": "2017-05-27T22:00:00Z",
+    "squadraLocale": 16,
+    "squadraOspite": 18,
+    "retiLocali": 5,
+    "retiOspiti": 3
+  }
+},
+{
+  "model": "squadre.calendario",
+  "pk": 380,
+  "fields": {
+    "nomeCampionato": "Serie A 2016/17",
+    "giornata": 38,
+    "data": "2017-05-27T22:00:00Z",
+    "squadraLocale": 10,
+    "squadraOspite": 2,
+    "retiLocali": 5,
+    "retiOspiti": 2
+  }
+}
+]

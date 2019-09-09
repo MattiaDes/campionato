@@ -1,0 +1,23 @@
+<!-- 127.0.0.1:8000/squadre/ -->
+{% include "squadre/header.html" %}
+{% load static %}
+<div class="page-header">
+    <h1>Elenco squadre campionato</h1>
+</div>
+<p class="lead">Ecco l'elenco delle <b>squadre</b> di questo campionato. Cliccaci sopra per visualizzarne le statistiche:</p>
+{% if lista_squadre %}
+<ul class="elenco_squadre">
+    {% for squadra in lista_squadre %}
+    <li><a href="{% url 'statistics' squadra.id%}">
+        {% with '/squadre/scudetti/'|add:squadra.nome|add:'.png' as image_static %}
+        <img src="{% static image_static %}"/>
+        {% endwith %}
+        <br/>
+        {{squadra.nome}}</a>
+    </li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>Non ci sono squadre nel database.</p>
+{% endif %}
+{% include "squadre/footer.html" %}

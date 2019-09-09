@@ -1,0 +1,16 @@
+{% include "squadre/header.html" %}
+<div class="jumbotron">
+    <h2>Progetto "{{title.nomeCampionato}}"</h2>
+    {% load static %}
+    <img src="{% static "/squadre/serieA.png" %}" style="float: right; margin-left: 15px;width:135px;"/>
+    <p>Questo progetto consiste nello sviluppo di un <b>applicativo Web</b> che fornisce un'interfaccia di accesso e visualizzazione ad un database pre-esistente (si è utilizzato a tal fine il DB visto durante le lezioni contenente dati sul campionato di calcio).</p>
+    <p>Il progetto è basato sul <b>framework Django</b> e si collega al DB esistente fornendo alcune funzionalità di base. Ecco l’elenco puntato delle funzionalità offerte:</p>
+    <p>- Visualizzazione dell'<a href="{% url 'squadre' %}">elenco delle squadre</a> (cluccando su una squadre se ne potranno vedere le statistiche);</p>
+    <p>- <a href="{% url 'calendar' %}">Calendario</a> delle partite, risultati e schedine per ogni giornata di campionato;</p>
+    <p>- <a href="{% url 'risultati' %}">Risultati</a> delle partite suddivisi per giornata;</p>
+    <p>- Visualizzazione della <a href="{% url 'classifica' %}">classifica finale</a>.</p>
+</div>
+<div class="container">
+    <p class="text-muted">Progetto realizzato da Desiderio M. e Gibellini G.</p>
+</div>
+{% include "squadre/footer.html" %}

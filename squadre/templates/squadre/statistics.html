@@ -1,0 +1,60 @@
+{% include "squadre/header.html" %}
+{% load static %}
+<img src="{% get_static_prefix %}squadre/scudetti/{{squadra.nome}}.png" class="logo_statistiche"/>
+<div class="page-header">
+    <h1>{{squadra.nome}}</h1>
+</div>
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Partite giocate</th>
+            <th scope="col">Partite vinte</th>
+            <th scope="col">Partite pareggiate</th>
+            <th scope="col">Partite perse</th>
+            <th scope="col">Goal fatti</th>
+            <th scope="col">Goal subiti</th>
+            <th scope="col">Differenza reti</th>
+            <th scope="col">Punti</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{partite_squadra.count}}</td>
+            <td>{{vinte}}</td>
+            <td>{{pareggiate}}</td>
+            <td>{{perse}}</td>
+            <td>{{goal_fatti}}</td>
+            <td>{{goal_subiti}}</td>
+            <td>{{differenza_reti}}</td>
+            <td>{{punti}}</td>
+        </tr>
+</table>
+
+<h3 style="text-align: center;">LISTA PARTITE GIOCATE:</h3>
+{% if partite_squadra %}
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Data</th>
+            <th scope="col">Squadra locale</th>
+            <th scope="col">Goal locali</th>
+            <th scope="col">Goal ospiti</th>
+            <th scope="col">Squadra ospite</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for calendario in partite_squadra %}
+        <tr>
+            <td>{{calendario.data |date:"d F Y" }}</td>
+            <td>{{calendario.squadraLocale}}</td>
+            <td>{{calendario.retiLocali}}</td>
+            <td>{{calendario.retiOspiti}}</td>
+            <td>{{calendario.squadraOspite}}</td>
+        </tr>
+        {% endfor %}
+</table>
+{% else %}
+<p class="lead">Non ci sono partite associate a questa squadra!</p>
+{% endif %}
+
+{% include "squadre/footer.html" %}

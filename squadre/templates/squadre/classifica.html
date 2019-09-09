@@ -1,0 +1,33 @@
+{% include "squadre/header.html" %}
+{% load static %}
+<img src="{% static "/squadre/trofeo.png" %}" style="float: right;"/>
+<div class="page-header">
+    <h1>Classifica</h1>
+</div>
+
+{% if calcola_classifica %}
+<p class="lead">Ecco la <b>classifica finale</b>, in base ai punti, delle squadre per questo campionato:</p>
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Posizione</th>
+            <th scope="col">Scudetto</th>
+            <th scope="col">Nome squadra</th>
+            <th scope="col">Punti</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for squadra, punti in calcola_classifica %}
+        <tr>
+            <td><b>{{forloop.counter}}°</b> Posto</td>
+            <td><img src="{% get_static_prefix %}squadre/scudetti/{{squadra}}.png" class="scudetto_mini" alt=""/></td>
+            <td><b>{{squadra}}</b></td>
+            <td>{{punti}} Punti</td>
+        </tr>
+        {% endfor %}
+</table>
+{% else %}
+<p class="lead">Non ci sono squadra in classifica!</p>
+{% endif %}
+
+{% include "squadre/footer.html" %}

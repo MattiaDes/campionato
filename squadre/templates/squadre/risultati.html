@@ -1,0 +1,20 @@
+{% include "squadre/header.html" %}
+{% load static %}
+<img src="{% static "/squadre/risultati.png" %}" style="float: right;"/>
+<div class="page-header">
+    <h1>Risultati partite</h1>
+</div>
+
+<p class="lead">In totale ci sono <b>{{giornate|length}} giornate</b>. Di quale giornata vuoi vedere i <b>risultati</b>? Sceglila tra le seguenti:</p>
+
+{% if giornate %}
+<ul class="elenco_squadre">
+{% for lista in giornate %}
+<li><a href="{% url 'risultati_giornata' lista.giornata%}">{{lista.giornata}}° Giornata</a></li>
+{% endfor %}
+</ul>
+{% else %}
+<p class="lead">Non ci sono giornate per questo campionario!</p>
+{% endif %}
+
+{% include "squadre/footer.html" %}
